@@ -16,3 +16,18 @@ h2 {
   text-align: center;
   text-decoration: underline;
 }
+.box1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    background: #000;
+    /* align-items: center; */
+    visibility: hidden;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background: red;
+    /* align-items: center; */
+}
